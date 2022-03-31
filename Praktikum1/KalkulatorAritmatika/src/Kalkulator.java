@@ -6,7 +6,7 @@
 
 /**
  *
- * @author asus
+ * @author Fahira
  */
 public class Kalkulator extends javax.swing.JFrame {
     /**
